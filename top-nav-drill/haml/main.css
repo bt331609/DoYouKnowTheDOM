@@ -1,3 +1,6 @@
+body {
+  margin: 0; }
+
 .container {
   margin: 0 auto; }
 
@@ -8,7 +11,8 @@ footer {
   border-top-style: solid; }
 
 h1 {
-  border-bottom-style: solid; }
+  border-bottom-style: solid;
+  font-size: 2.5em; }
 
 nav {
   float: right;
@@ -32,7 +36,8 @@ span {
   font-family: verdana;
   font-style: bold;
   font-size: 40px;
-  display: inline; }
+  display: inline;
+  padding-left: 2.5%; }
   span a {
     text-decoration: none; }
 
@@ -45,3 +50,5 @@ section {
   margin-left: auto;
   margin-right: auto;
   width: 760px; }
+
+/*# sourceMappingURL=main.css.map */
